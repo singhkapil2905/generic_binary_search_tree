@@ -1,4 +1,5 @@
 #include "bst.h"
+#include <iostream>
 
 int main() {
   kapil::BST<int> b;
